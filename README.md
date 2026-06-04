@@ -17,7 +17,6 @@
 - 🎓 Computer Engineering graduate — **Fenerbahçe University** (GPA: 3.44 / 4.00, **First in Class** 🏆)
 - 💻 Backend Software Engineer — experienced in **Java, Spring Boot, Microservices**
 - ⚡ Worked on a multi-tenant sustainability platform using **Apache Kafka & Docker & AWS**
-- 🔧 Interned at **Qoex Technology**, **Pointek Elektrik-Elektronik**, **Logiverse Technology**
 - 🤖 Interested in Embedded Systems & Hardware (CAN Bus, ESP32, Verilog)
 - 🌱 Strong believer in clean architecture, SOLID principles & quality code
 
