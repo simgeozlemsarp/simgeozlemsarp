@@ -29,28 +29,6 @@
 <img src="https://skillicons.dev/icons?i=java,spring,cpp,python,mysql,git,github,vscode&theme=dark"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=simgeozlemsarp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simgeozlemsarp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=simgeozlemsarp&theme=tokyo-night"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
