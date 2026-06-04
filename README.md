@@ -26,7 +26,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,cpp,python,mysql,git,github,vscode,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,spring,cpp,python,mysql,git,github,vscode&theme=dark"/>
 </p>
 
 ---
@@ -57,10 +57,6 @@
 
 <a href="https://linkedin.com/in/simgeozlemsarp">
 <img src="https://img.shields.io/badge/LinkedIn-6a11cb?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:youremail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
