@@ -37,7 +37,7 @@
 
 **Tools & Other**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
 </p>
 
 ---
