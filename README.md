@@ -1,4 +1,4 @@
-```md
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Simge%20Özlem%20Sarp&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Backend%20Developer%20•%20Computer%20Engineer&descAlignY=60"/>
 
 <h1 align="center">Hi 👋 I'm Simge</h1>
@@ -72,4 +72,4 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/simgeozlemsarp/simgeozlemsarp/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-```
+
