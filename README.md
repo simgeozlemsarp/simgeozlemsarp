@@ -1,9 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Simge%20Özlem%20Sarp&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Backend%20Developer&descAlignY=60" />
+```md
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Simge%20Özlem%20Sarp&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Backend%20Developer%20•%20Computer%20Engineer&descAlignY=60"/>
 
 <h1 align="center">Hi 👋 I'm Simge</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%23A020F0&size=24&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%7C+Spring+Boot;Computer+Engineer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%7C+Spring+Boot;Embedded+Systems+Enthusiast;Always+Learning+New+Things;Coffee+%2B+Code+%3C3"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=simgeozlemsarp&label=Profile%20Views&color=blueviolet&style=flat"/>
 </p>
 
 ---
@@ -18,22 +23,10 @@
 
 ---
 
-## 🛠 Technologies
+## 💻 Tech Stack
 
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,cpp,python,mysql,git,github,vscode,linux&theme=dark"/>
 </p>
 
 ---
@@ -42,20 +35,41 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=simgeozlemsarp&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=simgeozlemsarp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simgeozlemsarp&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simgeozlemsarp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=simgeozlemsarp&theme=tokyo-night"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://linkedin.com/in/simgeozlemsarp">
 <img src="https://img.shields.io/badge/LinkedIn-6a11cb?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="mailto:youremail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/simgeozlemsarp/simgeozlemsarp/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+```
