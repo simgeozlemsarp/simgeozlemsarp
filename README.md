@@ -30,18 +30,14 @@
 </p>
 
 ## 🌐 Connect With Me
-
 <p align="center">
-
 <a href="https://linkedin.com/in/simgeozlemsarp">
 <img src="https://img.shields.io/badge/LinkedIn-6a11cb?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-</p>
-
 <a href="mailto:simgeozlemsarp@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-6a11cb?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</p>
 
 ---
 
