@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋 I'm Simge</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;Apache+Kafka+%7C+Docker+%7C+AWS;Graduated+First+in+Class+%F0%9F%8F%86;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Graduated+First+in+Class+%F0%9F%8F%86;Always+Learning+New+Things"/>
 </p>
 
 <p align="center">
