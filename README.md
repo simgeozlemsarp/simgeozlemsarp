@@ -27,12 +27,12 @@
 
 **Backend**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,php&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,spring,dotnet,python,php&theme=dark"/>
 </p>
 
 **Database & DevOps**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,aws,kafka&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,kafka&theme=dark"/>
 </p>
 
 **Tools & Other**
